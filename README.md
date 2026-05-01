@@ -109,26 +109,6 @@ python -m http.server 8080 --bind 127.0.0.1
 
 ---
 
-## 项目结构
-
-```
-G:/项目/
-├── mc-item-builder/           # 主项目（当前目录）
-│   └── index.html             # 单文件应用 (~96KB)
-├── mc-item-builder-backup/    # 旧版本备份
-│   ├── index.html
-│   └── index.html.bak-*
-├── minecraftweb/              # Minecraft 官网快照（minecraft.net 存档）
-│   ├── index.html
-│   └── assets/
-│       ├── images/
-│       ├── style_1.css
-│       ├── style_2.css
-│       └── ...
-├── .claude/
-│   └── settings.local.json
-└── CLAUDE.md                  # Claude Code 项目说明
-```
 
 ### index.html 内部结构
 
