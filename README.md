@@ -1,4 +1,13 @@
 # Minecraft 物品组件生成器 | Item Component Builder
+/////////唯一一段人写的话/////////////
+整个项目包括README.me全部由DeepseekV4-flash模型完成。截止花费2.5元
+deepseek王朝了。
+////////////////////////////////////
+
+
+
+
+
 
 > **Minecraft 1.21.1** 物品组件可视化编辑器 — 通过直观的图形界面生成 `/give` 命令与物品组件 JSON。
 
